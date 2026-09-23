@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-NAME
   LOCATION: westus2
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 473051ed-91e4-4dce-ad96-df7137d94de8
+  SUBSCRIPTION-ID: /subscriptions/473051ed-91e4-4dce-ad96-df7137d94de8
   WEBAPP-NAME: KAAR025
 
 jobs:
